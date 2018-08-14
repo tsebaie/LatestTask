@@ -1,0 +1,41 @@
+page-signup {
+    .btn{
+        border-radius: 25px;
+         box-shadow: 0px 10px 10px rgba(128, 128, 128, 0.479);
+         font-size: 1.4em;
+         background-color:#09A0EF;
+         color: white;
+         height: 2.5em;
+         width: 80%;
+         margin-left: 9%;
+         margin-top: 15%;
+        //  background: linear-gradient( to right, rgb(13, 104, 189)(24, 110, 156), #09A0EF(99, 153, 182));
+    
+    }
+     .Si{
+     padding-left:5%;
+     margin-top: 10%;
+     font-size: 3em;
+     font-weight: bold;
+     }
+     .Su{
+         padding-left:5%;
+         margin-top: -15%;
+         font-size: 3em;
+         color:#09A0EF;
+         font-weight: bold;
+     }
+         .list{
+             border-radius: 25px;
+             border:  2px solid gray;
+             margin-top: 7%;
+         }
+         .fpass{
+                  padding-left: 60%;
+              }
+     .privacy{
+         padding-left: 30%;
+         color:#09A0EF;
+         margin-top: 10%;
+     }
+}
